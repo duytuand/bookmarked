@@ -18,6 +18,7 @@ Resources saved for future reference
 ](https://web.archive.org/web/20180504173504/http://ivory.idyll.org/articles/advanced-swc/)
 2. [Python cheatsheet](https://gto76.github.io/python-cheatsheet/)
 3. [Pandas diff by multiindex values of rows](https://stackoverflow.com/questions/53149855/pandas-diff-by-multiindex-values-of-rows)
+4. [Pandas visualized](https://jalammar.github.io/gentle-visual-intro-to-data-analysis-python-pandas/)
 
 ### Postgres
 
@@ -31,18 +32,26 @@ Resources saved for future reference
 ### ML
 
 1. [Reinforcement Learning - Book](http://incompleteideas.net/book/RLbook2018.pdf)
-
+2. [Reinforcement Learning: An Introduction, Richard S. Sutton and Andrew G. Barto](http://incompleteideas.net/book/the-book.html)
+3. [Tensor flow world - ready to use tutorials](https://github.com/astorfi/TensorFlow-World#3)
+4. [Wave function collapse](https://github.com/mxgmn/WaveFunctionCollapse)
+5. [An end to end implementation of a Machine Learning pipeline, Visual Computing Group, Harvard University](https://spandan-madan.github.io/DeepLearningProject/docs/Deep_Learning_Project-Pytorch.html)
 ## Other
 
-### Data structures
+### Data structures & algorithms
 
 1. [Collection of programming tasks](http://rosettacode.org/wiki/Category:Programming_Tasks)
 2. [Datastructures coding interview](https://www.interviewcake.com/article/java/data-structures-coding-interview)
 3. [Algorithms visualized](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 4. [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)
-
+5. [karan/projects collection of algorithms and datastructure implementations](https://github.com/karan/Projects)
 ### Miscallaneous
 1. [Monde Diplomat](https://mondediplo.com/)
 2. [HN top pdfs of 2018](https://getpolarized.io/2019/01/08/top-pdfs-of-2018-hackernews.html)
 3. [Developer career roadmap](https://github.com/kamranahmedse/developer-roadmap)
 4. [Mathematics of quantum mechanics](https://uwaterloo.ca/institute-for-quantum-computing/sites/ca.institute-for-quantum-computing/files/uploads/files/mathematics_qm_v21.pdf)
+5. [Puzzles - Advent of Code](https://adventofcode.com/2018/about)
+6. [How to grow neat software architecture from jupyter notebooks](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks)
+7. [List of programs/collections of code worth reading](http://wiki.c2.com/?ProgramsToRead)
+8. [Awesome remote job - remote working guides](https://github.com/lukasz-madon/awesome-remote-job)
+
