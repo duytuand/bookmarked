@@ -5,12 +5,13 @@ Resources saved for future reference
 
 ### Programming
 
-#### Design patterns
+#### Architecture & design patterns
 
 1. [.NET design patterns](https://www.dofactory.com/net/design-patterns)
 2. [Design patterns, visualized for humans](https://github.com/kamranahmedse/design-patterns-for-humans/blob/master/README.md#-simple-factory)
 3. [Python design patterns, Google Day US](https://www.youtube.com/watch?v=0vJJlVBVTFg)
 4. [Professional programming - collection of resources](https://github.com/charlax/professional-programming)
+5. [Patterns of Enterprise Architecture - PDF](https://github.com/himanshugpt/ebooks-1/blob/master/Patterns%20of%20Enterprise%20Application%20Architecture%20-%20Martin%20Fowler.pdf)
 
 #### Python
 
@@ -45,6 +46,7 @@ Resources saved for future reference
 3. [Algorithms visualized](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 4. [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)
 5. [karan/projects collection of algorithms and datastructure implementations](https://github.com/karan/Projects)
+
 #### Miscallaneous
 1. [Monde Diplomat](https://mondediplo.com/)
 2. [HN top pdfs of 2018](https://getpolarized.io/2019/01/08/top-pdfs-of-2018-hackernews.html)
@@ -54,4 +56,5 @@ Resources saved for future reference
 6. [How to grow neat software architecture from jupyter notebooks](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks)
 7. [List of programs/collections of code worth reading](http://wiki.c2.com/?ProgramsToRead)
 8. [Awesome remote job - remote working guides](https://github.com/lukasz-madon/awesome-remote-job)
+9. [Amazing collection of books - himanshugpt/ebooks](https://github.com/himanshugpt/ebooks-1)
 
