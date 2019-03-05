@@ -57,4 +57,4 @@ Resources saved for future reference
 7. [List of programs/collections of code worth reading](http://wiki.c2.com/?ProgramsToRead)
 8. [Awesome remote job - remote working guides](https://github.com/lukasz-madon/awesome-remote-job)
 9. [Amazing collection of books - himanshugpt/ebooks](https://github.com/himanshugpt/ebooks-1)
-
+10. [Intro to CS materials](https://introtcs.org/public/index.html)
