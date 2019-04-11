@@ -37,6 +37,7 @@ Resources saved for future reference
 3. [Tensor flow world - ready to use tutorials](https://github.com/astorfi/TensorFlow-World#3)
 4. [Wave function collapse](https://github.com/mxgmn/WaveFunctionCollapse)
 5. [An end to end implementation of a Machine Learning pipeline, Visual Computing Group, Harvard University](https://spandan-madan.github.io/DeepLearningProject/docs/Deep_Learning_Project-Pytorch.html)
+
 ### Other
 
 #### Data structures & algorithms
@@ -48,6 +49,7 @@ Resources saved for future reference
 5. [karan/projects collection of algorithms and datastructure implementations](https://github.com/karan/Projects)
 
 #### Miscallaneous
+
 1. [Monde Diplomat](https://mondediplo.com/)
 2. [HN top pdfs of 2018](https://getpolarized.io/2019/01/08/top-pdfs-of-2018-hackernews.html)
 3. [Developer career roadmap](https://github.com/kamranahmedse/developer-roadmap)
@@ -58,3 +60,4 @@ Resources saved for future reference
 8. [Awesome remote job - remote working guides](https://github.com/lukasz-madon/awesome-remote-job)
 9. [Amazing collection of books - himanshugpt/ebooks](https://github.com/himanshugpt/ebooks-1)
 10. [Intro to CS materials](https://introtcs.org/public/index.html)
+11. [Probabilistic programming and bayesian methods](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
