@@ -60,3 +60,4 @@ Things I've come across and found useful.
 8. [Awesome remote job - remote working guides](https://github.com/lukasz-madon/awesome-remote-job)
 9. [Amazing collection of books - himanshugpt/ebooks](https://github.com/himanshugpt/ebooks-1)
 10. [Intro to CS materials](https://introtcs.org/public/index.html)
+11 [Vectorization intro](https://blog.cr.yp.to/20190430-vectorize.html)
