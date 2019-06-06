@@ -1,3 +1,8 @@
+From: https://stackoverflow.com/questions/52082665/store-results-threadpoolexecutor
+
+
+### Python concurrency & futures quick examples
+
 When you call `future.result()`, that blocks until the value is ready. So, you’re not getting any benefits out of parallelism here—you start one task, wait for it to finish, start another, wait for it to finish, and so on.
 
 Of course your example won’t benefit from threading in the first place. Your tasks are doing nothing but CPU-bound Python computation, which means that (at least in CPython, MicroPython, and PyPy, which are the only complete implementations that come with `concurrent.futures`), the GIL (Global Interpreter Lock) will prevent more than one of your threads from progressing at a time.
