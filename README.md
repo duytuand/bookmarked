@@ -46,6 +46,8 @@ Things I've come across and found useful.
 5. [An end to end implementation of a Machine Learning pipeline, Visual Computing Group, Harvard University](https://spandan-madan.github.io/DeepLearningProject/docs/Deep_Learning_Project-Pytorch.html)
 6. [Probabilistic programming and bayesian methods](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 7. [Deep learning: An MIT Press book in preparation](https://www.deeplearningbook.org/lecture_slides.html)
+8. [The Elements of Statistical Learning Data Mining, Inference, and Prediction -Hastie, Tibshirani, Friedman](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf)
+
 ## Other
 
 #### Miscallaneous
